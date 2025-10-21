@@ -1,3 +1,5 @@
+package ex_01_Java_Basics.printf;
+
 public class Nine_Table
 {
     public static void main(String[] args) {
